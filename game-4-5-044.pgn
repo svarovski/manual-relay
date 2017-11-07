@@ -1,0 +1,21 @@
+[Event "London Chess Classic"]
+[Site "Olympia, London"]
+[Date "2015.12.07"]
+[Round "4.1"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[LiveChessVersion "1.4.6"]
+[ECO "E06"]
+
+1. d4 {[%clk 1:59:56]} Nf6 {[%clk 1:59:54]} 2. Nf3 {[%clk 1:59:36]} e6 {[%clk 1:59:41]} 3. c4 {[%clk 1:59:20]} d5 {[%clk 1:59:34]} 4. g3 {[%clk 1:59:07]} Be7 {[%clk 1:59:26]} 5. Bg2 {[%clk 1:59:02]} O-O {[%clk 1:59:19]} 6. Qc2 {[%clk 1:58:46]} c5 {[%clk 1:59:03]} 7. O-O {[%clk 1:58:30]} cxd4 {[%clk 1:58:51]} 8. Nxd4 {[%clk 1:58:21]} Qb6 {[%clk 1:57:44]} 9. Rd1 {[%clk 1:58:08]} Nc6 {[%clk 1:57:30]} 10. Nxc6 {[%clk 1:57:02]} Qxc6 {[%clk 1:57:02]} 11. Bg5 {[%clk 1:56:47]} h6 {[%clk 1:42:52]} 12. Bxf6 {[%clk 1:55:56]} Bxf6 {[%clk 1:42:41]} 13. Na3 {[%clk 1:55:52]} Bd7 {[%clk 1:40:26]} 14. Rab1 {[%clk 1:55:35]} Rac8 {[%clk 1:37:10]} 15. Qd3 {[%clk 1:54:57]} Rfd8 {[%clk 1:29:09]} 16. cxd5 {[%clk 1:54:25]} Qa4 {[%clk 1:28:31]} 17. Rd2 {[%clk 1:54:20]} b5 {[%clk 1:19:22]} 18. Rbd1 {[%clk 1:11:05]} exd5 {[%clk 0:51:22]} 19. Bxd5 {[%clk 1:10:36]} Bc6 {[%clk 0:51:15]} 20. e4 {[%clk 1:08:23]} a6 {[%clk 0:48:52]} 21. h4 {[%clk 1:01:57]} Bxd5 {[%clk 0:40:22]} 22. exd5 {[%clk 0:59:47]} Qb4 {[%clk 0:39:19]}
+
+[Event "London Chess Classic"]
+[Site "Olympia, London"]
+[Date "2015.12.07"]
+[Round "4.2"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[LiveChessVersion "1.4.6"]
+[ECO "A22"]
+
+1. c4 {[%clk 1:59:59]} Nf6 {[%clk 1:59:46]} 2. Nc3 {[%clk 1:59:52]} e5 {[%clk 1:59:31]} 3. g3 {[%clk 1:59:48]} Bb4 {[%clk 1:59:15]} 4. Bg2 {[%clk 1:59:44]} O-O {[%clk 1:59:06]} 5. e4 {[%clk 1:59:36]} Bxc3 {[%clk 1:58:58]} 6. bxc3 {[%clk 1:59:34]} Re8 {[%clk 1:58:45]} 7. d3 {[%clk 1:55:22]} c6 {[%clk 1:57:54]} 8. Nf3 {[%clk 1:52:25]} d5 {[%clk 1:57:42]} 9. cxd5 {[%clk 1:49:29]} cxd5 {[%clk 1:57:32]} 10. exd5 {[%clk 1:48:40]} Nxd5 {[%clk 1:57:24]} 11. Qc2 {[%clk 1:44:05]} Qc7 {[%clk 1:46:36]} 12. O-O {[%clk 1:38:38]} Qxc3 {[%clk 1:45:54]} 13. Qxc3 {[%clk 1:28:27]} Nxc3 {[%clk 1:45:48]} 14. Bb2 {[%clk 1:22:46]} Na4 {[%clk 1:45:42]} 15. Bxe5 {[%clk 1:22:34]} Nc6 {[%clk 1:45:37]} 16. Rfe1 {[%clk 1:18:29]} Nb6 {[%clk 1:24:29]} 17. Bc7 {[%clk 1:06:26]} Rxe1+ {[%clk 1:21:23]} 18. Rxe1 {[%clk 1:06:09]} Be6 {[%clk 1:21:10]} 19. Ne5 {[%clk 1:05:21]} Rc8 {[%clk 1:13:01]} 20. Bxb6 {[%clk 0:58:54]} Nxe5 {[%clk 1:07:41]} 21. Bxa7 {[%clk 0:45:16]} Nxd3 {[%clk 1:07:18]} 22. Rd1 {[%clk 0:45:04]} Nb2 {[%clk 1:07:10]}

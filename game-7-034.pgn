@@ -1,0 +1,12 @@
+[Event "Paris Grand Chess Tour - Rapid"]
+[Site "Paris"]
+[Date "2017.06.21"]
+[Round "2.5"]
+[White "Topalov, Veselin"]
+[Black "Caruana, Fabiano"]
+[BlackElo "2782"]
+[WhiteElo "2725"]
+[LiveChessVersion "1.4.8"]
+[ECO "C07"]
+
+1. e4 {[%clk 0:25:10]} e6 {[%clk 0:25:10]} 2. d4 {[%clk 0:25:10]} d5 {[%clk 0:25:10]} 3. Nd2 {[%clk 0:24:23]} c5 {[%clk 0:25:10]} 4. Ngf3 {[%clk 0:24:23]} cxd4 {[%clk 0:25:10]} 5. Nxd4 {[%clk 0:24:23]} Nf6 {[%clk 0:25:10]} 6. exd5 {[%clk 0:24:23]} Qxd5 {[%clk 0:25:10]} 7. Nb5 {[%clk 0:24:23]} Na6 {[%clk 0:25:10]} 8. a3 {[%clk 0:24:00]} Bd7 {[%clk 0:24:03]} 9. c4 {[%clk 0:22:53]} Qe5+ {[%clk 0:21:34]} 10. Qe2 {[%clk 0:22:53]} Qxe2+ {[%clk 0:21:32]} 11. Bxe2 {[%clk 0:22:53]} Bxb5 {[%clk 0:21:32]} 12. cxb5 {[%clk 0:22:53]} Nc5 {[%clk 0:21:32]} 13. O-O {[%clk 0:21:31]} Nd5 {[%clk 0:20:48]} 14. Nc4 {[%clk 0:20:18]} Nb3 {[%clk 0:20:35]} 15. Rb1 {[%clk 0:20:18]} Rc8 {[%clk 0:18:54]} 16. Rd1 {[%clk 0:20:13]} Bc5 {[%clk 0:18:54]} 17. Bg5 {[%clk 0:19:56]} f6 {[%clk 0:18:33]} 18. Bh4 {[%clk 0:18:59]}

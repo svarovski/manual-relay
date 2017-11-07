@@ -1,0 +1,21 @@
+[Event "London Chess Classic"]
+[Site "Olympia, London"]
+[Date "2015.12.07"]
+[Round "4.1"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[LiveChessVersion "1.4.6"]
+[ECO "E06"]
+
+1. d4 {[%clk 1:59:56]} Nf6 {[%clk 1:59:54]} 2. Nf3 {[%clk 1:59:36]} e6 {[%clk 1:59:41]} 3. c4 {[%clk 1:59:20]}
+
+[Event "London Chess Classic"]
+[Site "Olympia, London"]
+[Date "2015.12.07"]
+[Round "4.2"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[LiveChessVersion "1.4.6"]
+[ECO "A22"]
+
+1. c4 {[%clk 1:59:59]} Nf6 {[%clk 1:59:46]} 2. Nc3 {[%clk 1:59:52]} e5 {[%clk 1:59:31]} 3. g3 {[%clk 1:59:48]}

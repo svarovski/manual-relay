@@ -1,0 +1,18 @@
+[Event "European Team Chess Championships"]
+[Site "Reykjavik, Iceland"]
+[Date "2015.11.20"]
+[Round "7.71"]
+[White "Andersen, Mads"]
+[Black "Muir, Andrew J"]
+[Result "1-0"]
+[BlackElo "2313"]
+[WhiteElo "2459"]
+[WhiteTeam "Denmark"]
+[BlackTeam "Scotland"]
+[LiveChessVersion "1.4.6"]
+[ECO "A06"]
+
+1. Nf3 { [ %clk  1:30:56.1 ] some comment after clock } d5 {[%clk 1:30:49]}
+2. g3 { some comment before clock [%clk 1:31:16] and after} Nf6 {[%clk 1:30:59]} {separate comment}
+3. Bg2 {[%clk 1:31:36] two clocks in one comment [%clk 1:32:34]} e6 {[%clk
+1:31:24] line break in a clock } 4. O-O {[%clk 1:31:53]} 1-0
