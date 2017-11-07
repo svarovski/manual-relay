@@ -6,7 +6,7 @@ DELAY=$2
 [ "x$DELAY" == "x" ] && DELAY=10
 
 while true; do
-	for I in game-$GAME-*.pgn; do
+	for I in game-$GAME-???.pgn; do
 		ln -sf $I game-$GAME.pgn
 		sleep $DELAY
 	done

@@ -20,9 +20,11 @@ inc() {
 }
 
 save() {
-	(cat $OUTPUT-head.pgn && echo && echo ${out[@]}) > $OUTPUT-$(printf '%03d' $move).pgn
+	(cat $OUTPUT-head.pgn && echo && echo ${out[@]}) > $OUTPUT-$(printf '%03d' $(($move+1))).pgn
 	move=$(($move+1))
 }
+
+(cat $OUTPUT-head.pgn && echo && echo "*") > $OUTPUT-000.pgn
 
 while true; do
 	inc; inc; inc; inc; save
