@@ -7,6 +7,7 @@ DELAY=$2
 
 while true; do
 	for I in game-$GAME-???.pgn; do
+		touch $I
 		ln -sf $I game-$GAME.pgn
 		sleep $DELAY
 	done
